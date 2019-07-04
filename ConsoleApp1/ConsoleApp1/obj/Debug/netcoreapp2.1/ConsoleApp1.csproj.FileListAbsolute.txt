@@ -1,0 +1,11 @@
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+E:\hiru\works\git hub\c-practical\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
